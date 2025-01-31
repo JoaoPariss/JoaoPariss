@@ -4,7 +4,7 @@
 
 📫 E-mail: joaosergio2001@gmail.com
 
- ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+ ### Main skills (Learning): ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 <!--
 **JoaoPariss/JoaoPariss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
