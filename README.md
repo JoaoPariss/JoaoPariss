@@ -5,4 +5,5 @@ Economista em transição para a área de dados, com foco em análise, indicador
 
 ### Detalhes
 
-[![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPariss&show_icons=true&theme=dark&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPariss&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
