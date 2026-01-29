@@ -9,7 +9,14 @@ Profissional com formação em Ciências Econômicas e em transição de carreir
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPariss&repo=Projeto---Fraude-em-Cartoes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Projetos
+
+[![Fraude em Cartões](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPariss&repo=Projeto---Fraude-em-Cartoes&theme=dark)](https://github.com/JoaoPariss/Projeto---Fraude-em-Cartoes)
+
+[![Credit Score](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPariss&repo=Projeto---Credit-Score-&theme=dark)](https://github.com/JoaoPariss/Projeto---Credit-Score-)
+
+[![Inadimplência](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPariss&repo=Projeto---Inadimplencia&theme=dark)](https://github.com/JoaoPariss/Projeto---Inadimplencia)
+
 
 
 ### Linguagens utilizadas
