@@ -54,12 +54,12 @@ Análise da relação entre inadimplência, crédito total, taxa Selic e inflaç
 🔗 https://github.com/JoaoPariss/Projeto---Inadimplencia
 
 
-📌 Previsão de Intenção de Compra em Loja Web
+📌 **Previsão de Intenção de Compra em Loja Web**
 Modelo de classificação para identificar clientes com maior propensão à compra em e-commerce, usando dados demográficos e comportamentais. Comparação entre Regressão Logística e Random Forest, com melhor desempenho do Random Forest.
 🔗 https://github.com/JoaoPariss/Projeto-Intencao-de-Compra-Loja-Web
 
 
-📌 Segmentação de Clientes com K-Means
+📌 **Segmentação de Clientes com K-Means**
 Projeto de clustering para segmentação de clientes de um shopping com base em dados demográficos e comportamentais. Aplicação de K-Means com padronização das variáveis, análise exploratória e interpretação dos clusters para apoio a estratégias de marketing direcionadas.
 🔗 https://github.com/JoaoPariss/projeto-segmentacao-clientes
 
