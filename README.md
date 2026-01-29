@@ -48,13 +48,25 @@ Principais atividades:
 Desenvolvimento de modelo de classificação para identificação de transações fraudulentas em base altamente desbalanceada, com foco em recall e mitigação de prejuízos financeiros.  
 🔗 https://github.com/JoaoPariss/Projeto---Fraude-em-Cartoes
 
-📌 **Credit Score – Análise de Risco de Crédito**  
-Construção e avaliação de modelos preditivos para classificação de risco de crédito, incluindo análise exploratória, tratamento de dados e avaliação de métricas de performance.  
-🔗 https://github.com/JoaoPariss/Projeto---Credit-Score-
 
 📌 **Análise da Inadimplência no Brasil**  
 Análise da relação entre inadimplência, crédito total, taxa Selic e inflação (IPCA), utilizando séries temporais e regressão para identificação de padrões econômicos.  
 🔗 https://github.com/JoaoPariss/Projeto---Inadimplencia
+
+
+📌 Previsão de Intenção de Compra em Loja Web
+Modelo de classificação para identificar clientes com maior propensão à compra em e-commerce, usando dados demográficos e comportamentais. Comparação entre Regressão Logística e Random Forest, com melhor desempenho do Random Forest.
+🔗 https://github.com/JoaoPariss/Projeto-Intencao-de-Compra-Loja-Web
+
+
+📌 Segmentação de Clientes com K-Means
+Projeto de clustering para segmentação de clientes de um shopping com base em dados demográficos e comportamentais. Aplicação de K-Means com padronização das variáveis, análise exploratória e interpretação dos clusters para apoio a estratégias de marketing direcionadas.
+🔗 https://github.com/JoaoPariss/projeto-segmentacao-clientes
+
+
+📌 **Credit Score – Análise de Risco de Crédito**  
+Construção e avaliação de modelos preditivos para classificação de risco de crédito, incluindo análise exploratória, tratamento de dados e avaliação de métricas de performance.  
+🔗 https://github.com/JoaoPariss/Projeto---Credit-Score-
 
 ---
 
