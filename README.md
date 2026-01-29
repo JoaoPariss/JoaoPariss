@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou o João, economista, com formação em Ciência de Dados pela EBAC, em transição de carreira para a área de dados, com foco em análise de dados, estatística aplicada, KPIs e apoio à tomada de decisão baseada em evidências.
+Sou o João, economista, com formação em Ciência de Dados pela EBAC, em transição de carreira para a área de dados, com foco em análise de dados, modelagem, análise de KPIs e apoio à tomada de decisões baseadas em evidências.
 
 ---
 
