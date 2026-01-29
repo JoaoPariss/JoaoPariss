@@ -31,14 +31,14 @@ Sou o João, economista, com formação em Ciência de Dados pela EBAC, em trans
 
 📍 **Supervisor Administrativo**
 
-Atuação focada na análise de dados financeiros e operacionais, com forte ênfase em indicadores de desempenho (KPIs) e suporte à tomada de decisão estratégica.
+Atuação com foco em **análise de dados financeiros e operacionais**, apoiando a tomada de decisão estratégica por meio de **KPIs e indicadores de desempenho**.
 
-Principais atividades:
-- Monitoramento e análise de KPIs financeiros e operacionais
-- Controle e acompanhamento de fluxo de caixa
-- Análise de resultados
-- Elaboração de relatórios analíticos para a gestão
-- Apoio à tomada de decisão com base em dados históricos e indicadores
+**Principais atividades:**
+- Monitoramento e análise de KPIs financeiros e operacionais  
+- Controle e acompanhamento do fluxo de caixa  
+- Análise de resultados e variações de desempenho  
+- Elaboração de relatórios analíticos para a gestão  
+- Suporte à tomada de decisão com base em dados históricos e indicadores
 
 ---
 
