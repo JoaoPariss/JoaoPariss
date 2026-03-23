@@ -1,49 +1,22 @@
-## Olá 👋
+# 👋 Olá! Eu sou o João  
 
-Sou o João, economista, com formação em Ciência de Dados pela EBAC, em transição de carreira para a área de dados, com foco em análise de dados, modelagem, análise de KPIs e apoio à tomada de decisões baseadas em evidências.
+Profissional com experiência em análise de dados financeiros e operacionais, atuando na geração de insights para suporte à tomada de decisão. Experiência em todo o ciclo de dados, desde coleta e tratamento até análise exploratória, modelagem e visualização.
 
----
+## 📊 Resumo Profissional  
+- Análise de dados orientada a negócios (data-driven)  
+- Definição e acompanhamento de KPIs e métricas de desempenho  
+- Experiência com planejamento financeiro, orçamento e fluxo de caixa  
+- Construção de dashboards e relatórios gerenciais  
+- Análise de crédito e risco com base em dados históricos  
+- Identificação de padrões, tendências e oportunidades de melhoria  
 
-## Detalhes
+## 🛠️ Ferramentas e Tecnologias  
+- Python (Pandas, NumPy, Scikit-learn)  
+- Power BI (dashboards, DAX, visualização de dados)  
+- Excel (análise de dados, apoio operacional)  
+- SQL (consultas, manipulação e extração de dados)  
 
-🎯 **Cientista de Dados**, com perfil analítico e forte base quantitativa, atuando em projetos práticos de ciência de dados voltados à solução de problemas de negócio.
-
-📊 **Áreas de atuação e interesse**
-- Análise exploratória de dados (EDA)
-- Estatística aplicada e regressão
-- Modelos de classificação e clusterização
-- Modelagem preditiva
-- Construção e análise de KPIs
-- Geração de insights para tomada de decisão
-
-🛠️ **Competências técnicas (Ciência de Dados)**
-- Python para análise de dados (projetos acadêmicos)
-- Pandas, NumPy e Scikit-learn
-- Análise estatística e modelagem
-- Preparação, limpeza e tratamento de dados
-- Visualização de dados
-- Power BI para dashboards analíticos
-- Excel
-
----
-
-## Experiência Profissional
-
-📍 **Supervisor Administrativo**
-
-Atuação com foco em **análise de dados financeiros e operacionais**, apoiando a tomada de decisão estratégica por meio de **KPIs e indicadores de desempenho**.
-
-**Principais atividades:**
-- Monitoramento e análise de KPIs financeiros e operacionais  
-- Controle e acompanhamento do fluxo de caixa  
-- Análise de resultados e variações de desempenho  
-- Elaboração de relatórios analíticos para a gestão  
-- Suporte à tomada de decisão com base em dados históricos e indicadores
-
----
-
-## Projetos em Ciência de Dados
-
+## 📈 Projetos 
 📌 **Detecção de Fraudes em Cartões de Crédito**  
 Desenvolvimento de modelo de classificação para identificação de transações fraudulentas em base altamente desbalanceada, com foco em recall e mitigação de prejuízos financeiros.  
 🔗 https://github.com/JoaoPariss/Projeto---Fraude-em-Cartoes
@@ -69,3 +42,4 @@ Construção e avaliação de modelos preditivos para classificação de risco d
 ## Contato
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/joao-paris/)
+
